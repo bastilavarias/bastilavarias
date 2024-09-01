@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://sebastech.vercel.app/](https://sebastech.vercel.app/)
-
-- 📝 I regularly write articles on [https://sebastech.vercel.app/stoa](https://sebastech.vercel.app/stoa)
+- 👨‍💻 All of my projects are available at [Portfolio](https://sebastech.vercel.app/) or you can access my own [SERVER](https://sebastech.vercel.app/) here
 
 - 📫 How to reach me **sebastiancurtislavarias@gmail.com**
